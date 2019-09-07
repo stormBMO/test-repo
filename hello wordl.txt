@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("hello, world!");
 print("Also hello");
+=======
+print("hello world");
+>>>>>>> parent of 47142c2... added symbols
